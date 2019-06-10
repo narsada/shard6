@@ -1,0 +1,32 @@
+{
+  "name": "shard6",
+  "version": "1.0.0",
+  "description": "This is a New CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:narsada/shard6.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "narsada",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "browser-sync": "^2.26.7",
+    "bulma": "^0.7.5",
+    "node-sass": "^4.12.0",
+    "npm-run-all": "^4.1.5",
+    "onchange": "^6.0.0",
+    "postcss-cli": "^6.1.2",
+    "postcss-extend": "^1.0.5",
+    "pug": "^2.0.3",
+    "pug-cli": "^1.0.0-alpha6",
+    "rimraf": "^2.6.3",
+    "sanitize.css": "^10.0.0"
+  }
+}
